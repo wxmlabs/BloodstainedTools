@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'com.wxmlabs'
+version '0.3'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
